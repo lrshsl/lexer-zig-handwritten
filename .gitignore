@@ -1,0 +1,20 @@
+
+*
+
+# Only include the following
+!.gitignore
+
+!README.md
+!build.zig
+
+!src/
+!src/**/*.zig
+!src/**/*.c
+!src/**/*.h
+
+!examples/
+!examples/**/*
+
+!docs/
+!docs/**/*
+docs/generated/
